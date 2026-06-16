@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Open the local Ubuntu Tor noVNC session for Samsung TV remote control.",
   "packageType": "mods",
-  "websiteURL": "http://192.168.178.63:6088/tv.html?host=192.168.178.63&port=6088&path=websockify&tvfix=bigcursor2",
+  "websiteURL": "http://192.168.178.63:6088/tv.html?host=192.168.178.63&port=6088&path=websockify&tvfix=accel-ime1",
   "main": "dist/noop.js",
   "keys": [
     "ColorF0Red",
