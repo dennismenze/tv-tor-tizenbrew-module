@@ -1,0 +1,22 @@
+{
+  "name": "tv-tor-tizenbrew-module",
+  "appName": "Ubuntu Tor",
+  "version": "1.0.0",
+  "description": "Open the local Ubuntu Tor noVNC session for Samsung TV remote control.",
+  "packageType": "mods",
+  "websiteURL": "http://192.168.178.63:6088/tv.html",
+  "main": "dist/noop.js",
+  "keys": [
+    "ColorF0Red",
+    "ColorF1Green",
+    "ColorF2Yellow",
+    "ColorF3Blue",
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaFastForward",
+    "MediaRewind"
+  ],
+  "author": "Dennis Menze",
+  "license": "MIT"
+}
